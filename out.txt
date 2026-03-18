@@ -1,0 +1,47 @@
+Enter number of processes: 5
+
+P1 0 5 2
+
+P2 1 3 4
+
+P3 2 4 1
+
+P4 3 23
+
+P5 4 6 5
+
+Waiting Time:
+
+P1 11
+
+P20
+
+P3 14
+
+P4 7
+
+P5 0
+
+Turnaround Time:
+
+P1 16
+
+P2 3
+
+P3 18
+
+РЦ 9
+
+P5 6
+
+Average Waiting Time: 6.40
+
+Average Turnaround Time: 10.40
+
+Process returned 0 (0x0)
+
+Press any key to continue.
+
+execution time
+
+26.546
